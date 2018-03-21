@@ -1,0 +1,52 @@
+
+#slider {
+    -fx-background-color: #253C78;
+}
+#openFile {
+   -fx-background-image:url("../icons/files.png");
+   -fx-background-color: transparent;
+   -fx-padding: 7.5px;
+
+/*-fx-border-color: red;*/
+  
+}
+#playButton {
+    -fx-background-image:url("../icons/play.png");
+ 
+     -fx-background-color: transparent;
+   
+}
+#pauseButton {
+    -fx-background-image:url("../icons/pause.png");
+    -fx-background-color: transparent;
+}
+#stopButton {
+    -fx-background-image:url("../icons/stop.png");
+    -fx-background-color: transparent;
+}
+#slowerButton {
+    -fx-background-image:url("../icons/slower.png");
+    -fx-background-color: transparent;
+}
+#slowButton {
+    -fx-background-image:url("../icons/slow.png");
+    -fx-background-color: transparent;
+}
+#fasterButton {
+    -fx-background-image:url("../icons/faster.png");
+    -fx-background-color: transparent;
+}
+#fastButton {
+    -fx-background-image:url("../icons/fast.png");
+    -fx-background-color: transparent;
+}
+#exitButton {
+    -fx-background-image:url("../icons/exit.png");
+    -fx-background-color: transparent;
+}
+#borderPane {
+    -fx-background-color: linear-gradient(to top, #C4E0E5, #4CA1AF);
+ 
+}
+
+
